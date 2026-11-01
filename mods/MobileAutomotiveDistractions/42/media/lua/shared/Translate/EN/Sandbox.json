@@ -1,0 +1,8 @@
+{
+  "Sandbox_MobileAutomotiveDistractions": "Mobile Automotive Distractions",
+  "Sandbox_MAD_RequireSkills": "Require skills to rig the horn",
+  "Sandbox_MAD_RequireSkills_tooltip": "Require level 3 Electrical or Mechanics. Disabled by default for testing.",
+  "Sandbox_MAD_RequireMaterials": "Require materials and tools",
+  "Sandbox_MAD_RequireMaterials_tooltip": "Require and attach items. A board consumes one roll of duct tape. Disabled by default for testing."
+}
+

@@ -1,0 +1,7 @@
+name=Mobile Automotive Distractions (Multiplayer)
+id=MADMultiplayerProbe
+require=\ZombieBuddy
+javaJarFile=media/java/MADMPServerTest.jar
+javaPkgName=mad.mp
+ZBVersionMin=2.3.4
+description=Rig an unattended running vehicle to create a moving distraction.

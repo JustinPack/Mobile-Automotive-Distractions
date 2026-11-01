@@ -1,0 +1,9 @@
+build/
+*.class
+*.log
+cache/
+client2/
+*.db
+*.db-journal
+*.sqlite
+.DS_Store

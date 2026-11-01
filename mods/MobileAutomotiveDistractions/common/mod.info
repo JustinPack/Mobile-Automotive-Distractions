@@ -1,0 +1,7 @@
+name=Mobile Automotive Distractions
+id=MobileAutomotiveDistractions
+require=\ZombieBuddy
+javaJarFile=media/java/MobileAutomotiveDistractions.jar
+javaPkgName=mad.rig
+ZBVersionMin=2.3.4
+description=Rig an unattended running vehicle to create a moving distraction.
